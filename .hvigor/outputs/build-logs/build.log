@@ -11549,3 +11549,778 @@
 [2024-08-27T14:56:41.024] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
 [2024-08-27T14:56:43.840] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
 [2024-08-27T14:56:43.842] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:03:07.355] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:07.355] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:07.356] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:07.770] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:07.771] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:10.641] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:10.642] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:10.642] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:11.027] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:11.029] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:12.775] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:12.775] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:12.776] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:13.157] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:13.158] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:14.315] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:14.316] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:14.316] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:14.646] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:14.646] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:25.205] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:25.206] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:25.206] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:25.613] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:25.614] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:25.636] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:25.636] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:25.636] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:26.024] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:26.025] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:27.860] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:27.861] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:27.861] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:28.220] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:28.221] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:28.223] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:28.224] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:28.225] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:03:28.563] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:03:28.564] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:03:59.182] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:03:59.186] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:03:59.190] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:03:59.190] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:03:59.191] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:04:00.691] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:04:00.693] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:04:00.841] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:04:00.842] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:05:54.687] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:05:54.690] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:05:55.709] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:05:55.711] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:05:55.718] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:05:55.719] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:05:55.866] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:05:55.867] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:06:24.655] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:06:24.657] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:06:28.319] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:06:28.320] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:06:28.328] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:06:28.329] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:06:28.328] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:06:28.330] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:06:28.329] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:06:28.332] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:06:28.342] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:06:28.344] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:06:28.514] [WARN] debug-file - TypeError: Cannot read properties of undefined (reading 'getText')
+    at p (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/lib/process_ui_syntax.js:1:6396)
+    at visitArrayWorker (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:93743:48)
+    at visitNodes (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:93707:23)
+    at visitLexicalEnvironment (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:93773:22)
+    at visitEachChildOfSourceFile (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:94336:59)
+    at Object.visitEachChild (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:93887:42)
+    at /Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/lib/process_ui_syntax.js:1:4431
+    at transformSourceFileOrBundle (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:95037:68)
+    at transformation (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:114644:24)
+    at transformRoot (/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB5/openharmony/ets/build-tools/ets-loader/node_modules/typescript/lib/typescript.js:114671:82) {
+  code: 'PLUGIN_ERROR',
+  plugin: 'etsTransform',
+  hook: 'transform',
+  id: '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+  watchFiles: [
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/.preview/default/intermediates/res/default/ResourceTable.txt',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/oh-package.json5',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entrybackupability/EntryBackupAbility.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entryability/EntryAbility.ets'
+  ]
+}
+[2024-08-27T15:06:28.520] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:06:28.522] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:07:40.069] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:40.070] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:40.070] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:40.642] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:40.643] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:42.793] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:42.793] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:42.794] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:43.348] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:43.349] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:44.980] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:44.981] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:44.983] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:44.983] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:44.984] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:44.984] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:44.983] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:44.984] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:44.985] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:45.594] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:45.596] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:45.600] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:45.600] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:45.601] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:46.197] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:46.199] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:46.202] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:46.202] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:46.203] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:46.827] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:46.829] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:46.835] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:46.836] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:46.837] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:47.398] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:47.400] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:47.404] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:47.404] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:47.405] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:47.991] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:47.993] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:47.997] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:47.997] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:47.998] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:48.559] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:48.560] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:49.209] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:49.210] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:49.211] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:49.477] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:49.480] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:50.417] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:50.419] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:50.428] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:50.429] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:50.431] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:51.336] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:51.338] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:51.347] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:51.348] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:51.349] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:52.068] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:52.073] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:07:52.079] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:07:52.079] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:07:52.080] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:07:52.570] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:07:52.571] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:07:59.623] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:07:59.628] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:00.535] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:00.541] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:00.549] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:08:00.551] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:08:32.756] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:32.757] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:32.758] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:33.601] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:33.604] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:34.705] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:34.705] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:34.706] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:35.418] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:35.420] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:35.425] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:35.425] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:35.426] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:36.169] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:36.172] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:36.945] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:36.951] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:36.955] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:37.604] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:37.606] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:37.703] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:37.703] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:37.705] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:38.342] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:38.345] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:39.342] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:39.343] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:39.344] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:39.972] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:39.976] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:40.167] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:40.168] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:40.168] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:40.935] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:40.937] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:40.947] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:40.948] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:40.950] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:41.538] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:41.541] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:43.646] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:43.647] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:43.649] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:44.330] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:44.332] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:44.342] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:44.343] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:44.344] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:45.339] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:45.348] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:45.515] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:45.515] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:45.517] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:46.215] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:46.218] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:46.224] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:46.225] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:46.226] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:46.866] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:46.874] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:47.386] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:47.387] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:47.388] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:48.164] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:48.166] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:48.174] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:48.176] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:48.177] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:48.793] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:48.796] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:48.801] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:48.801] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:48.802] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:49.468] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:49.470] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:49.477] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:49.477] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:49.478] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:50.061] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:50.066] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:52.035] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:52.036] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:52.037] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:52.657] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:52.660] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:52.666] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:52.667] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:52.668] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:53.358] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:53.361] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:53.368] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:53.368] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:53.369] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:08:53.972] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:08:53.974] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:08:59.614] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:08:59.615] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:08:59.616] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:00.270] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:00.272] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:00.737] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:00.738] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:00.739] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:01.510] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:01.513] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:01.540] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:01.540] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:01.541] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:02.342] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:02.344] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:02.350] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:02.351] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:02.351] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:03.023] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:03.036] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:04.191] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:04.192] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:04.193] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:04.904] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:04.906] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:04.913] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:04.914] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:04.922] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:05.682] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:05.684] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:06.687] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:06.687] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:06.688] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:07.792] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:07.796] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:07.809] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:07.809] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:07.810] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:08.483] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:08.485] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:08.490] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:09:08.491] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:09:08.497] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:09:09.192] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:09:09.200] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:09:24.962] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:09:24.965] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:09:33.556] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:09:33.558] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:14:01.728] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:14:01.732] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:14:05.679] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:14:05.682] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:14:19.121] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:14:19.123] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:14:20.250] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:14:20.252] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:15:22.436] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:15:22.439] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:15:28.992] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:15:28.993] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:15:49.212] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:15:49.213] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:15:49.214] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:15:49.721] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:15:49.725] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:15:57.914] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:15:57.914] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:15:57.916] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:15:57.976] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:15:57.979] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:16:00.592] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.596] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.593] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.599] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.594] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.608] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.594] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.610] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.595] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.612] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.804] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:16:00.807] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:16:00.905] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.912] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.950] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:00.953] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:00.960] [WARN] debug-file - Error [RollupError]: Unexpected token (Note that you need plugins to import files that are not JavaScript)
+    at error (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:210:30)
+    at Module.error (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:13696:16)
+    at Module.tryParse (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:14457:25)
+    at Module.setSource (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:13991:37)
+    at ModuleLoader.addModuleSource (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:23728:20) {
+  cause: SyntaxError: Unexpected token (249:12)
+      at pp$4.raise (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:21124:13)
+      at pp$9.unexpected (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:18425:8)
+      at pp$5.parseExprAtom (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20508:10)
+      at pp$5.parseExprSubscripts (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20300:19)
+      at pp$5.parseMaybeUnary (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20266:17)
+      at pp$5.parseExprOps (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20193:19)
+      at pp$5.parseMaybeConditional (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20176:19)
+      at pp$5.parseMaybeAssign (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20143:19)
+      at pp$5.parseExpression (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20106:19)
+      at pp$8.parseStatement (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:18615:45) {
+    pos: 9409,
+    loc: Position { line: 249, column: 12 },
+    raisedAt: 9410
+  },
+  code: 'PARSE_ERROR',
+  id: '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+  pos: 9409,
+  loc: {
+    column: 18,
+    file: '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+    line: 123
+  },
+  frame: '121: \n' +
+    '122:     //2新增任务按钮\n' +
+    "123:     Button('新增任务')\n" +
+    '                       ^\n' +
+    '124:       .width(200)\n' +
+    '125:       .onClick(()=>{',
+  watchFiles: [
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/.preview/default/intermediates/res/default/ResourceTable.txt',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/oh-package.json5',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entryability/EntryAbility.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entrybackupability/EntryBackupAbility.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets'
+  ]
+}
+[2024-08-27T15:16:00.964] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:16:00.967] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:16:20.429] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:16:20.441] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:16:22.557] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.560] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.557] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.561] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.558] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.564] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.559] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.565] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.560] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.568] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.635] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.639] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.665] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:16:22.668] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:16:22.666] [WARN] debug-file - Error [RollupError]: Unexpected token (Note that you need plugins to import files that are not JavaScript)
+    at error (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:210:30)
+    at Module.error (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:13696:16)
+    at Module.tryParse (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:14457:25)
+    at Module.setSource (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:13991:37)
+    at ModuleLoader.addModuleSource (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:23728:20) {
+  cause: SyntaxError: Unexpected token (249:12)
+      at pp$4.raise (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:21124:13)
+      at pp$9.unexpected (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:18425:8)
+      at pp$5.parseExprAtom (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20508:10)
+      at pp$5.parseExprSubscripts (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20300:19)
+      at pp$5.parseMaybeUnary (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20266:17)
+      at pp$5.parseExprOps (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20193:19)
+      at pp$5.parseMaybeConditional (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20176:19)
+      at pp$5.parseMaybeAssign (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20143:19)
+      at pp$5.parseExpression (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:20106:19)
+      at pp$8.parseStatement (/Applications/DevEco-Studio.app/Contents/tools/hvigor/hvigor-ohos-plugin/node_modules/@ohos/hvigor-arkts-base/node_modules/rollup/dist/shared/rollup.js:18615:45) {
+    pos: 9409,
+    loc: Position { line: 249, column: 12 },
+    raisedAt: 9410
+  },
+  code: 'PARSE_ERROR',
+  id: '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+  pos: 9409,
+  loc: {
+    column: 18,
+    file: '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets',
+    line: 126
+  },
+  frame: '124: \n' +
+    '125:     //2新增任务按钮\n' +
+    "126:     Button('新增任务')\n" +
+    '                       ^\n' +
+    '127:       .width(200)\n' +
+    '128:       .onClick(()=>{',
+  watchFiles: [
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/.preview/default/intermediates/res/default/ResourceTable.txt',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/oh-package.json5',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entryability/EntryAbility.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/entrybackupability/EntryBackupAbility.ets',
+    '/Users/Mac/Desktop/GitSync/LearnHarmonyOS/LearnHarmonyOS/entry/src/main/ets/pages/PropPage.ets'
+  ]
+}
+[2024-08-27T15:16:22.670] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:16:22.672] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:19:04.914] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:19:04.916] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:19:08.573] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:19:08.576] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:19:51.561] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:19:51.561] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:19:51.562] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:19:52.016] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:19:52.018] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:06.749] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:06.749] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:06.750] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:07.148] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:07.149] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:12.194] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:12.194] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:12.195] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:12.584] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:12.585] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:18.841] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:21:18.845] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:21:22.345] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:21:22.346] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:21:53.972] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:53.972] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:53.974] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:54.397] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:54.399] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:54.401] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:54.401] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:54.402] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:54.777] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:54.778] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:55.625] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:55.625] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:55.625] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:56.012] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:56.013] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:56.016] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:56.017] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:56.017] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:56.392] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:56.393] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:56.395] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:56.395] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:56.395] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:56.767] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:56.769] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:56.771] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:56.772] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:56.772] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:57.163] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:57.164] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:57.167] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:57.168] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:57.168] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:57.544] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:57.545] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:57.575] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:57.575] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:57.576] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:57.970] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:57.972] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:57.975] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:57.975] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:57.976] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:58.354] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:58.355] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:58.357] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:58.357] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:58.358] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:58.726] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:58.727] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:59.482] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:59.483] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:59.483] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:21:59.856] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:21:59.857] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:21:59.861] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:21:59.861] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:21:59.862] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:00.233] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:00.235] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:00.238] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:00.238] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:00.238] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:00.615] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:00.617] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:00.624] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:00.625] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:00.626] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:01.014] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:01.015] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:01.017] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:01.018] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:01.018] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:01.383] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:01.384] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:01.386] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:01.386] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:01.386] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:01.756] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:01.758] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:03.084] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:03.085] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:03.085] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:03.451] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:03.452] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:03.866] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:03.867] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:03.867] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:04.261] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:04.263] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:04.438] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:04.439] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:04.439] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:04.810] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:04.811] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:04.813] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:04.813] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:04.813] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:05.181] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:05.182] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:05.184] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:05.184] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:05.185] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:05.549] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:05.550] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:05.884] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:05.884] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:05.885] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:06.264] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:06.265] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:06.268] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:06.268] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:06.269] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:06.647] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:06.648] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:06.650] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:06.651] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:06.652] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:07.021] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:07.023] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:08.158] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:08.158] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:08.158] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:08.530] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:08.531] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:09.504] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:09.505] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:09.505] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:09.881] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:09.882] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:09.884] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:09.884] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:09.885] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:10.272] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:10.276] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:10.278] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:10.278] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:10.279] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:10.665] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:10.666] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:10.669] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:10.669] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:10.670] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:11.045] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:11.046] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:11.049] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:11.049] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:11.050] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:11.426] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:11.428] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:12.201] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:12.202] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:12.202] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:12.587] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:12.589] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:12.592] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:12.592] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:12.593] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:12.976] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:12.977] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:12.980] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:12.980] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:12.980] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:13.373] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:13.374] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:13.377] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:13.377] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:13.378] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:13.794] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:13.795] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:13.798] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:22:13.798] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:22:13.799] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:22:14.192] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:22:14.194] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:22:23.147] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:22:23.148] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:22:24.812] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:22:24.813] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:44:21.122] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:44:21.123] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:44:21.126] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:44:21.741] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:44:21.742] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:44:21.748] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:44:21.748] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:44:21.748] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:44:22.103] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:44:22.105] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:44:26.137] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:44:26.141] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:44:27.351] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:44:27.352] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:46:25.930] [DEBUG] debug-file - session manager: receive watch compile data.
+[2024-08-27T15:46:25.931] [DEBUG] debug-file - session manager: send message to worker process.
+[2024-08-27T15:46:25.931] [DEBUG] debug-file - watch worker: receive watch compile tata.
+[2024-08-27T15:46:25.999] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:46:26.000] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:46:26.903] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchCompileResult
+[2024-08-27T15:46:26.904] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchCompileResult
+[2024-08-27T15:46:27.015] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:46:27.016] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:57:07.512] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:57:07.514] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:57:09.019] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:57:09.020] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:58:30.177] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:58:30.182] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:58:34.782] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:58:34.784] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:58:34.783] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:58:34.785] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:58:34.844] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:58:34.847] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:58:34.846] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:58:34.849] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:58:35.009] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:58:35.012] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:58:54.589] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:58:54.591] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:59:01.750] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:01.756] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:01.756] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:01.760] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:01.833] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:01.839] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:01.835] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:01.846] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:02.056] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:59:02.059] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:59:14.984] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:59:14.988] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T15:59:29.676] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.685] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.677] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.692] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.678] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.696] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.680] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.701] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.682] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.713] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.683] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.717] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.683] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.721] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.955] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.960] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:29.957] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T15:59:29.976] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T15:59:30.464] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T15:59:30.468] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T15:59:55.379] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T15:59:55.383] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T16:00:00.819] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:00.834] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:00.819] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:00.837] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:00.820] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:00.839] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:00.820] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:00.840] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:01.599] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:01.602] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:01.599] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:01.614] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:02.607] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T16:00:02.613] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T16:00:22.754] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T16:00:22.758] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T16:00:43.826] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.828] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:43.827] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.843] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:43.840] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.846] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:43.840] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.848] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:43.841] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.849] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:43.841] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:00:43.850] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:00:45.221] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T16:00:45.224] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T16:01:20.771] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T16:01:20.773] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T16:01:27.295] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:01:27.302] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:01:27.296] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchLog
+[2024-08-27T16:01:27.306] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchLog
+[2024-08-27T16:01:28.220] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T16:01:28.224] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult
+[2024-08-27T16:02:07.376] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchStart
+[2024-08-27T16:02:07.386] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchStart
+[2024-08-27T16:02:10.831] [DEBUG] debug-file - watch worker: send response to session manager. Response type: WatchResult
+[2024-08-27T16:02:10.833] [DEBUG] debug-file - session manager: watch message received from worker 1. Type: WatchResult

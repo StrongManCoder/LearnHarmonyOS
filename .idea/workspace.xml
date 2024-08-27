@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e95e3f-5b3f-43f5-ad7b-8fb74df1e463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/cache/meta.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/dependencyMap/dependencyMap.json5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/dependencyMap/entry/oh-package.json5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/dependencyMap/oh-package.json5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261747388760.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261750060900.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261754368920.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261755544470.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261758492670.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408261759057100.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408271033205760.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408271042130050.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202408271042575430.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.deveco/module/entry.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.deveco/project.cache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/LearnHarmonyOS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/entry/entry.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/previewer/2in1/2in1SettingConfig_2in1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/previewer/phone/phoneSettingConfig_Foldable.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/previewer/phone/phoneSettingConfig_Phone.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/previewer/previewConfigV2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/previewer/tablet/tabletSettingConfig_Tablet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/Component/CommonCOmponent.ets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/StatePage.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/obfuscation-rules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/entry/obfuscation-rules.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/shoplist.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/shoplist.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
