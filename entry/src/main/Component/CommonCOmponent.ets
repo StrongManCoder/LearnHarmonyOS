@@ -18,9 +18,9 @@ export  struct  Header {
         .fontColor('#F255')
         .onClick(()=>{
 
-          //返回前警告
+          //返回前警告提示
           router.showAlertBeforeBackPage({
-            message:'确定返回吗?'
+            message:'来都来了,这就想走?'
           })
 
           router.back()
