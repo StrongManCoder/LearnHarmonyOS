@@ -1,6 +1,7 @@
 
 
 
+@Observed
 class  Task {
   static  id:number = 1
   name:string =`任务${Task.id++}`
@@ -113,6 +114,8 @@ struct TaskList {
       //2新增任务按钮
       Button('新增任务')
         .width(200)
+        .height(50)
+        .margin({bottom:20})
         .onClick(()=>{
           //新增任务数据
           this.tasks.push(new Task())
@@ -127,19 +130,10 @@ struct TaskList {
           this.tasks,
           (item:Task,index:number) =>{
             ListItem(){
-              Row(){
-                Text(item.name)
-                  .fontSize(20)
-                Checkbox()
-                  .select(item.finished)
-                  .onChange(val =>{
-                    //更新当前任务状态
-                    item.finished = val
-                    this.handleTaskChange()
-                  })
-              }
-              .card()
-              .justifyContent(FlexAlign.SpaceBetween)
+              //bind this  传递this 防止在执行handleTaskChange 时候 内部this指向混乱
+              TaskItem({item:item,onTaskChange:this.handleTaskChange.bind(this)})
+              //使用箭头函数传递方法 可以  少些一个bind
+              // TaskItem({item:item,onTaskChange:()=>{this.handleTaskChange()}})
             }
             .swipeAction({end:this.DeleteButton(index)})
 
@@ -157,6 +151,7 @@ struct TaskList {
 
   }
 
+
   @Builder DeleteButton(index:number){
     Button('DEL')
       .width(50)
@@ -171,4 +166,39 @@ struct TaskList {
   }
 
 
+}
+
+
+
+@Component
+struct  TaskItem{
+  @ObjectLink item:Task
+
+  //传递函数
+  onTaskChange?: () => void
+
+  build() {
+
+    Row(){
+      if(this.item.finished){
+        Text(this.item.name)
+          .finishedTask()
+      }else {
+        Text(this.item.name)
+      }
+      Checkbox()
+        .select(this.item.finished)
+        .onChange(val =>{
+          //更新当前任务状态
+          this.item.finished = val
+          //更新已完成任务数量
+          // this.handleTaskChange()
+          if(this.onTaskChange){
+            this.onTaskChange()
+          }
+        })
+    }
+    .card()
+    .justifyContent(FlexAlign.SpaceBetween)
+  }
 }

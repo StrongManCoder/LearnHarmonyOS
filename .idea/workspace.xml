@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e95e3f-5b3f-43f5-ad7b-8fb74df1e463" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759063210.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261755544470.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759445380.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261758492670.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759557160.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261759057100.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031801432390.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271033205760.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031800367140.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271042130050.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
     </list>
