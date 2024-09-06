@@ -1,21 +1,41 @@
 //自定义组件
+import { router } from '@kit.ArkUI'
+import { JSON } from '@kit.ArkTS'
+
 @Component
 export  struct  Header {
   private title: ResourceStr = ''
+@State parms:object =   router.getParams()
+
 
   build() {
 
     Row(){
 
-      Text('<<<')
+      Text('<')
         .fontSize(30)
+        .width(60)
         .fontColor('#F255')
+        .onClick(()=>{
+
+          //返回前警告
+          router.showAlertBeforeBackPage({
+            message:'确定返回吗?'
+          })
+
+          router.back()
+        })
+
+      if(this.parms && this.title){
+        //[''] 获取没有的数学  会undefind
+        // Text( this.parms['id'] + '.' + this.parms['adddd'] + '.'+ this.title)
+        Text(`${this.parms['id']} ${this.title}`)
+          .fontSize(30)
+          .fontWeight(FontWeight.Bold)
+          .fontColor('#F36')
+      }
 
 
-      Text(this.title)
-        .fontSize(30)
-        .fontWeight(FontWeight.Bold)
-        .fontColor('#F36')
 
       Blank()
       Text('O')

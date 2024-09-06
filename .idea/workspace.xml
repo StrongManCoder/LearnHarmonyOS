@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e95e3f-5b3f-43f5-ad7b-8fb74df1e463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759063210.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/AUTOPageTest.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/ImagePage.ets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261755544470.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759445380.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261758492670.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031759557160.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408261759057100.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031801432390.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271033205760.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/report/report-202409031800367140.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271042130050.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271418442820.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409031759063210.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409031759445380.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/Component/CommonCOmponent.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/Component/CommonCOmponent.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/StatePage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/StatePage.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HiLogStateProjectLevelPreference">
+    <panelStates>
+      <hilogPanelState>
+        <option name="filterName" value="No filters" />
+        <option name="logPanelType" value="ONLINE" />
+      </hilogPanelState>
+    </panelStates>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2

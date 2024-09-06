@@ -1,96 +1,103 @@
 import App from '@system.app';
+import router from '@ohos.router';
+
+class RouterInfo{
+  url: string
+  title:string
+
+  constructor(url:string,title:string) {
+    this.url = url;
+    this.title = title;
+  }
+
+}
+
+
+
+
+
 
 @Entry
 @Component
 struct Index {
-  @State message: string = 'Hello World';
+  @State message: string = '页面列表';
   @State time:number = 0
-
   @State imagewidth:number = 250;
+
+  private  routers:RouterInfo[] = [
+    new RouterInfo('pages/shoplist','商品列表'),
+    new RouterInfo('pages/ImagePage','图片放大缩小案例'),
+    new RouterInfo('pages/PropPage','任务列表案例'),
+    new RouterInfo('pages/StatePage','Jack和女友的案例'),
+  ]
+
+
+
 
 
 
   build() {
       Column(){
 
-    Row(){
-      Image($r('app.media.app_icon'))
-        .width(this.imagewidth)
-        .interpolation(ImageInterpolation.High)
-    }
-    .width('100%')
-    .height(400)
-    .justifyContent(FlexAlign.Center)
+        Text(this.message)
+          .fontSize(50)
+          .height(80)
+          .fontWeight(FontWeight.Bold)
 
-
-        Row(){
-          Text($r('app.string.width_label'))
-            .fontSize(20)
-            .fontWeight(FontWeight.Bold)
-
-          TextInput({placeholder:'请输入图片宽度',text:this.imagewidth.toFixed(0)})
-            .width(250)
-            // .backgroundColor('#36D')
-            .type(InputType.Number)
-            .onChange( (value:string) => {
-              //输入框默认返回字符串  需要转换成数字类型
-              this.imagewidth = parseInt(value)
-
-            } )
+        List({space:5}){
+          ForEach(
+            this.routers,
+            (router:RouterInfo,Index) =>{
+              ListItem(){
+                this.RouterItem(router,Index+1)
+              }
+            }
+          )
         }
+        .layoutWeight(1)
+        .alignListItem(ListItemAlign.Center)
         .width('100%')
-        .padding({left:20,right:20})
-        .justifyContent(FlexAlign.SpaceBetween)
-
-        //分割线
-        Divider()
-          .width('90%')
-
-        
-     Row(){
-       Button('缩小')
-         .width(80)
-         .fontSize(20)
-         .onClick(() =>{
-           if(this.imagewidth >=10){
-             this.imagewidth -= 10
-           }
-         })
-       Button('放大')
-         .width(80)
-         .fontSize(20)
-         .onClick(() =>{
-           if(this.imagewidth < 500){
-             this.imagewidth += 10
-           }
-         })
-     }
-     .width('100%')
-     .margin({top:20,bottom:35})
-     .justifyContent(FlexAlign.SpaceEvenly)
-
-        Slider({
-          min:100,
-          max:400,
-          value:this.imagewidth,
-          step:10,
-          style:SliderStyle.OutSet,
-          direction:Axis.Horizontal,
-          reverse:false,
-        })
-          .blockColor('#36d')
-          .width('90%')
-          .trackThickness(8)
-          .showTips(true)
-          .onChange((value) => {
-            this.imagewidth = value
-          })
-
       }
+      .layoutWeight(1)
       .width('100%')
       .height('100%')
-
-
-
   }
+
+
+  @Builder
+  RouterItem(r:RouterInfo,i:number){
+    Row(){
+      Text(i + '.')
+        .fontSize(20)
+        .fontColor(Color.White)
+      Blank()
+      Text(r.title)
+        .fontSize(20)
+        .fontColor(Color.White)
+    }
+    .width('90%')
+    .padding(12)
+    .backgroundColor('#38f')
+    .borderRadius(20)
+    .shadow({radius:6,color:'#4F0000',offsetX:2,offsetY:2})
+    .onClick(()=>{
+      //router 跳转  push
+      router.pushUrl(
+        {
+        url:r.url,
+        params:{id:i}
+        },
+         router.RouterMode.Single,
+        err =>{
+          if(err){
+            console.log(`路由失败, errCode: ${err.code} errMSg:${err.message}`)
+          }
+        }
+      )
+    })
+  }
+
+
+
+
 }

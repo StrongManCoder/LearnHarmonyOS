@@ -48,14 +48,14 @@
       "BUILD_MODE": "debug"
     }
   },
-  "totalTime": 9843271990,
+  "totalTime": 10199914983,
   "moduleNum": 1,
   "taskTime": {
     "compileArkTS": 0,
     "buildArkTS": 0,
     "compileJS": 0,
     "buildJS": 0,
-    "compileResource": 367518154,
+    "compileResource": 136124160,
     "packageHap": 0,
     "signHap": 0
   },
@@ -67,18 +67,18 @@
   "IS_HVIGORFILE_TYPE_CHECK": false,
   "TASK_TIME": {
     "entry": {
-      "PreCheckSyscap": 1129776,
-      "GeneratePkgContextInfo": 1130257,
-      "PreviewProcessResource": 5385925,
-      "PreviewCompileResource": 367518154,
-      "PreviewHookCompileResource": 260987,
-      "CopyPreviewProfile": 3530836,
-      "ReplacePreviewerPage": 1805495,
-      "buildPreviewerResource": 296383,
-      "PreviewUpdateAssets": 1656333,
-      "PreviewArkTS": 8821631005,
-      "PreviewBuild": 283707
+      "PreCheckSyscap": 387089,
+      "GeneratePkgContextInfo": 507120,
+      "PreviewProcessResource": 1857591,
+      "PreviewCompileResource": 136124160,
+      "PreviewHookCompileResource": 228568,
+      "CopyPreviewProfile": 1925306,
+      "ReplacePreviewerPage": 246777,
+      "buildPreviewerResource": 292072,
+      "PreviewUpdateAssets": 1952451,
+      "PreviewArkTS": 9513361074,
+      "PreviewBuild": 293629
     }
   },
-  "BUILD_ID": "202409061005257110"
+  "BUILD_ID": "202409061511426570"
 }

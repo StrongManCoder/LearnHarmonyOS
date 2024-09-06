@@ -1,4 +1,5 @@
 
+import {Header} from '../../Component/CommonCOmponent'
 
 
 @Observed
@@ -37,6 +38,10 @@ struct PropPage {
   // @State finishTask: number = 0
   build() {
     Column({space:10}){
+
+      Header({title:'任务列表'})
+        .margin(20)
+
       //1,任务进度卡片
       //子组件
       // TaskStatistics({finishTask:this.finishTask,totalTask:this.totalTask})

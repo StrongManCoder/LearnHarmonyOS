@@ -1,4 +1,5 @@
 import App from '@system.app';
+import {Header} from '../../Component/CommonCOmponent'
 
 
 class  Person{
@@ -32,6 +33,9 @@ struct StatePage2 {
   build() {
 
     Column(){
+
+      Header({title:'Jack和女友的案例'})
+        .margin(20)
 
       Text(`${this.p.name}: ${this.p.age} `)
         .fontSize(50)
