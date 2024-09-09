@@ -2,20 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e95e3f-5b3f-43f5-ad7b-8fb74df1e463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/AUTOPageTest.ets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/ImagePage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/testChildren.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/testFather.ets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/file-cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/cache/task-cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/build-logs/build.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/logs/details/details.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202408271418442820.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409031759063210.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409031759445380.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/fileCache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/outputs/sync/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/.hvigor/outputs/sync/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409051540221270.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409051541444320.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409051549008650.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.hvigor/report/report-202409061005257110.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.deveco/module/entry.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.deveco/module/entry.cache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.deveco/project.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.deveco/project.cache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/Component/CommonCOmponent.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/Component/CommonCOmponent.ets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/Index.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/PropPage.ets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry/src/main/ets/pages/StatePage.ets" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/ets/pages/StatePage.ets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/entry/src/main/resources/base/profile/main_pages.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,9 @@
         <option name="logPanelType" value="ONLINE" />
       </hilogPanelState>
     </panelStates>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2

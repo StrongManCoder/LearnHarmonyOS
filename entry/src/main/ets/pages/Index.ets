@@ -29,6 +29,7 @@ struct Index {
     new RouterInfo('pages/ImagePage','图片放大缩小案例'),
     new RouterInfo('pages/PropPage','任务列表案例'),
     new RouterInfo('pages/StatePage','Jack和女友的案例'),
+    new RouterInfo('pages/testFather','组件生命周期'),
   ]
 
 
