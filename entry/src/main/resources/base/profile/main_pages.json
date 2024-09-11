@@ -6,6 +6,7 @@
     "pages/shoplist",
     "pages/StatePage",
     "pages/AUTOPageTest",
-    "pages/testFather"
+    "pages/testFather",
+    "pages/ShopPage"
   ]
 }

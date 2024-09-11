@@ -1,4 +1,6 @@
 import App from '@system.app';
+import http from '@ohos.net.http';
+
 import router from '@ohos.router';
 
 class RouterInfo{
@@ -30,6 +32,7 @@ struct Index {
     new RouterInfo('pages/PropPage','任务列表案例'),
     new RouterInfo('pages/StatePage','Jack和女友的案例'),
     new RouterInfo('pages/testFather','组件生命周期'),
+    new RouterInfo('pages/ShopPage','查询商铺案例'),
   ]
 
 

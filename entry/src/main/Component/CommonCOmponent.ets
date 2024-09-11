@@ -13,7 +13,7 @@ export  struct  Header {
     Row(){
 
       Text('<')
-        .fontSize(30)
+        .fontSize(25)
         .width(60)
         .fontColor('#F255')
         .onClick(()=>{
@@ -29,7 +29,7 @@ export  struct  Header {
       if(this.parms && this.title){
         //[''] 获取没有的数学  会undefind
         // Text( this.parms['id'] + '.' + this.parms['adddd'] + '.'+ this.title)
-        Text(`${this.parms['id']} ${this.title}`)
+        Text(`${this.parms['id']} . ${this.title}`)
           .fontSize(30)
           .fontWeight(FontWeight.Bold)
           .fontColor('#F36')
@@ -38,9 +38,9 @@ export  struct  Header {
 
 
       Blank()
-      Text('O')
-        .fontSize(30)
-        .fontColor('#F36')
+      // Text('O')
+      //   .fontSize(30)
+      //   .fontColor('#F36')
 
     }
     .width('100%')
