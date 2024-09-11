@@ -7,7 +7,7 @@ class ShopModel{
   baseURL:string = 'http://localhost:3000'
   pageNo:number = 1
 
-  getShopList():Promise<ShopInfo[]>{
+  getShopList():Promise<string>{
 
     return new Promise((resolve,reject)=>{
 
@@ -24,9 +24,11 @@ class ShopModel{
           if(resp.responseCode === 200){
 
             console.log('查询成功',resp.result)
-            const result = JSON.parse(resp.result as string) as ShopInfo[]
 
-            console.log('成功的result ',)
+            // const result:ShopInfo = resp.result;
+            const result = resp.result.toString()
+
+            console.log('成功的result ',result)
 
             resolve(result)
           }else {

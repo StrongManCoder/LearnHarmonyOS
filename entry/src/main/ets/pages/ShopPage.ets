@@ -2,6 +2,9 @@ import {Header} from '../../Component/CommonCOmponent'
 import ShopInfo from  '../viewmodel/ShopInfo'
 import  ShopItem from '../views/ShopItem'
 import shopModel from '../model/ShopModel'
+import JSONUtil from '../utils/JSONUtil'
+
+
 @Entry
 @Component
 struct ShopPage {
@@ -56,19 +59,21 @@ struct ShopPage {
 
     shopModel.getShopList()
       .then((shops)=>{
-        console.log('返回的数组个数啊',this.shops.length)
 
+        // const  shopssss =  JSONUtil.jsonToArray(ShopInfo,shops.toString());
+        const  shopssss =JSON.parse(shops) as  ShopInfo[]
+          console.log('数组个数啊',shopssss.length)
 
-        shops.forEach( s =>{
+        shopssss.forEach( s =>{
           s.images.forEach((src,i)=>{
             s.images[i] = 'http://localhost:3000' + src
           })
         })
 
         //拼接上去后面的数据
-        this.shops = this.shops.concat(shops);
+        this.shops = this.shops.concat(shopssss);
 
-        console.log('数组个数啊',this.shops.length)
+        console.log(' this.shops数组个数啊',this.shops.length)
 
       })
       .catch(()=>{
