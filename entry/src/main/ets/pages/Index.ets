@@ -1,6 +1,9 @@
 import App from '@system.app';
 import http from '@ohos.net.http';
 
+import { PreferencesUtil, StrUtil, ToastUtil } from '@pura/harmony-utils';
+
+
 import router from '@ohos.router';
 
 class RouterInfo{
@@ -26,6 +29,7 @@ struct Index {
   @State time:number = 0
   @State imagewidth:number = 250;
 
+
   private  routers:RouterInfo[] = [
     new RouterInfo('pages/shoplist','商品列表'),
     new RouterInfo('pages/ImagePage','图片放大缩小案例'),
@@ -36,7 +40,12 @@ struct Index {
   ]
 
 
+aboutToAppear(): void {
 
+
+
+
+  }
 
 
 
