@@ -1,10 +1,7 @@
 import {Header} from '../../Component/CommonCOmponent'
-import ShopInfo from  '../viewmodel/ShopInfo'
+import ShopInfo from '../viewmodel/ShopInfo'
 import  ShopItem from '../views/ShopItem'
 import shopModel from '../model/ShopModel'
-import JSONUtil from '../utils/JSONUtil'
-
-
 @Entry
 @Component
 struct ShopPage {
@@ -55,25 +52,23 @@ struct ShopPage {
   //加载数据
   loadShopInfos(){
 
-    console.log('开始请求接口',this.shops.length)
-
+    //请求接口如果没反应 需要在终端里面进入shopServer 文件夹  npm install   npm start
     shopModel.getShopList()
       .then((shops)=>{
+        console.log('返回的数组个数啊',shops.length)
 
-        // const  shopssss =  JSONUtil.jsonToArray(ShopInfo,shops.toString());
-        const  shopssss =JSON.parse(shops) as  ShopInfo[]
-          console.log('数组个数啊',shopssss.length)
 
-        shopssss.forEach( s =>{
-          s.images.forEach((src,i)=>{
-            s.images[i] = 'http://localhost:3000' + src
+        shops.forEach( s =>{
+          s.images.forEach((src:string,i:number)=>{
+            ////这里的ip  替换成自己的电脑ip
+            s.images[i] = 'http://10.1.7.104:3000' + src
           })
         })
 
         //拼接上去后面的数据
-        this.shops = this.shops.concat(shopssss);
+        this.shops = this.shops.concat(shops);
 
-        console.log(' this.shops数组个数啊',this.shops.length)
+        console.log('数组个数啊',this.shops.length)
 
       })
       .catch(()=>{

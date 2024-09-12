@@ -1,4 +1,4 @@
-export default class  ShopInfo{
+export default interface   ShopInfo{
   id: number
   name: string
   images: string[]
