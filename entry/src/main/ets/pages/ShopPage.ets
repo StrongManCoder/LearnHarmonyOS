@@ -10,6 +10,8 @@ struct ShopPage {
 
   isLoading: boolean = false
 
+  isMore: boolean = true
+
   aboutToAppear(): void {
     this.loadShopInfos()
   }
@@ -33,13 +35,17 @@ struct ShopPage {
       .onReachEnd(()=>{
         console.log('触底了')
 
-        if(this.isLoading){
+        if(!this.isLoading && this.isMore){
           this.isLoading = true
           console.log('加载数据')
           shopModel.pageNo ++
           this.loadShopInfos()
         }
 
+      })
+      .onReachStart(()=>{
+        shopModel.pageNo = 1;
+        this.loadShopInfos()
       })
 
 
@@ -57,7 +63,6 @@ struct ShopPage {
       .then((shops)=>{
         console.log('返回的数组个数啊',shops.length)
 
-
         shops.forEach( s =>{
           s.images.forEach((src:string,i:number)=>{
             ////这里的ip  替换成自己的电脑ip
@@ -65,10 +70,21 @@ struct ShopPage {
           })
         })
 
+        if(!shops || shops.length === 0){
+          this.isMore = false
+        }
+
+        //下拉刷新第一页
+        if(shopModel.pageNo === 1){
+          this.shops = shops
+        }
+
         //拼接上去后面的数据
         this.shops = this.shops.concat(shops);
 
-        console.log('数组个数啊',this.shops.length)
+        this.isLoading = false
+
+        console.log('全部数组的个数啊',this.shops.length)
 
       })
       .catch(()=>{

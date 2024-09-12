@@ -19,8 +19,7 @@ class ShopModel{
         `${this.baseURL}/shops?pageNo=${this.pageNo}&pageSize=3`,
         {
           method:http.RequestMethod.GET
-        }
-      )
+        })
         .then( (resp:http.HttpResponse) => {
 
           if(resp.responseCode === 200){
