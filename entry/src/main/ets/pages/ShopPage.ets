@@ -59,7 +59,10 @@ struct ShopPage {
   loadShopInfos(){
 
     //请求接口如果没反应 需要在终端里面进入shopServer 文件夹  npm install   npm start
-    shopModel.getShopList()
+    //原生http请求
+    // shopModel.getShopList()
+    //axios 请求方式
+    shopModel.getShopListWithAXiOS()
       .then((shops)=>{
         console.log('返回的数组个数啊',shops.length)
 
